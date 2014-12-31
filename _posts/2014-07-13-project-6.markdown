@@ -1,0 +1,15 @@
+---
+title: Food App (Placeholder name)
+subtitle: Mobile Application
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: Food App.png
+thumbnail: Food App.png
+alt: image-alt
+project-date: April 2014
+client: 
+category: Mobile Application
+description: Currently in development. The idea is to create an app to track the expiry date of everything that's in the fridge (or in the pantry). The app will remind the user when an item is about to expire via notification.
+description2: You can track the progress and view the full source code on <a href="https://github.com/Meitnerium109/Food-App">github</a>
+---
