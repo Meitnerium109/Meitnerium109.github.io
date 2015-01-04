@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Flash Game
-description: An timing and strategy platformer game. I created all the art from scratch and created all the graphical elements as well as the code behind it. This was my first attempt at pixel art. This game is built with FlashDevelop (pure code, no GUI) using actionscript 3 and the flixel game development framework. This game will be fully sponsored and released soon, so keep watching!.
+description: A timing and strategy platformer game. I created all the art from scratch and created all the graphical elements as well as the code behind it. This was my first attempt at pixel art. This game is built with FlashDevelop (pure code, no GUI) using actionscript 3 and the flixel game development framework. This game will be fully sponsored and released soon, so keep watching!.
 description2: You can read more about the game and the development process in my <a href="No Blog Post Yet"> blog post </a>
 ---
