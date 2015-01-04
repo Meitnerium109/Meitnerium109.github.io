@@ -1,0 +1,15 @@
+---
+title: Color Cubes
+subtitle: Flash Game
+layout: default
+modal-id: 8
+date: 2014-07-5
+img: Color Cubes.png
+thumbnail: Color Cubes.png
+alt: image-alt
+project-date: April 2014
+client: 
+category: Flash Game
+description: A puzzle game where you mix and match colours in order to reach the exit. You can play the game on my <a href="http://www.ppllaayy.com/game/color_cubes/"> sponsor's website </a>. Unfortunately, I can't release the source code due to the terms of sponsorship.
+description2: You can read more about the game and the development process in my <a href="No Blog Post Yet">blog post</a>.
+---

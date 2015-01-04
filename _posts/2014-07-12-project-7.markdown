@@ -1,0 +1,15 @@
+---
+title: Potato Run
+subtitle: Flash Game
+layout: default
+modal-id: 7
+date: 2014-07-16
+img: Potato Run.png
+thumbnail: Potato Run.png
+alt: image-alt
+project-date: April 2014
+client: 
+category: Flash Game
+description: An action packed fast-paced platformer flash game. This was my first game to be widely released and sponsored. You can play the game on my <a href="http://buxle.com/game/Potato-Run"> sponsor's website </a>. Unfortunately, I can't release the source code due to the terms of sponsorship.
+description2: You can read more about the game and the development process in my <a href="No Blog Post Yet">blog post</a>.
+---
