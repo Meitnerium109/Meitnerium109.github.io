@@ -12,5 +12,4 @@ client:
 category: Web Development
 description: This is my first mobile application. I used Java and the libgdx library to create the app. I also learned the scene2d feature of libgdx for this project and incorporated it into the design of the app. You can find the full source code on <a href="https://github.com/Meitnerium109/Caveman-Run">github</a> and download the <a href="https://dl-web.dropbox.com/get/RunnerGame-android.apk?_subject_uid=137572684&w=AAA6iwG3bC2Feh5ePXgT5IToZCJHpGejgyCtRt43goRkDA&dl=1" download>android file</a>. 
 description2: This project is meant to be an app, but there is a <a href="https://dl-web.dropbox.com/get/RunnerGame.jar?_subject_uid=137572684&w=AACwPeDSv0asPGXTfUOsRt1-7i9okXASsDG4UyyEe7aCBA&dl=1" download> desktop version </a> available. Instead of tapping left or right, press Z or X keys to play.
-description3: You can read more about the app and the creation process in my <a href="No Blog Post Yet Lol.">blog post</a>.
 ---
