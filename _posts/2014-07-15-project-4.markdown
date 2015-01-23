@@ -11,6 +11,5 @@ project-date: April 2014
 client: 
 category: Flash Game
 description: An action game where you upgrade a rocket and avoid airplanes, clouds, and aliens in order to reach the moon. This game is built with FlashDevelop (pure code, no GUI) using actionscript 3 and the flixel game development framework. This game has already been fully sponsored, and will be released shortly, so keep watching!
-description2: You can read more about the game and the development process in my <a href="No Blog Post Yet"> blog post </a>
 
 ---
