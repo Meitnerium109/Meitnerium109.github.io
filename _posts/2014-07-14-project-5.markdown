@@ -11,5 +11,4 @@ project-date: April 2014
 client: Start Bootstrap
 category: Java Game
 description: This is my final project for highschool. I may have gone a little overboard with the complexity, but the completed product was completely worth the efforts. I created this game with libgdx using the flixel-gdx framework. The full source code is available on <a href="https://github.com/Meitnerium109/Final-Project-Highschool">github</a>. The desktop game file is located within the github project.  
-description2: You can read more about the game and the development process in my <a href="No Blog Post Yet"> blog post </a>
 ---
